@@ -1,3 +1,13 @@
+# Projeto desenvolvido em ReactJS
+* Implementado o conceito de rotas da biblioteca react-router-dom para administrar a navegação entre nossas páginas.
+* Página totalmente responsiva, se ajustando aos diferentes tamanhos de tela, do mobile ao desktop.
+
+## Layout
+![image](https://github.com/Lucasgyn94/page-sorveteria-artesanal/assets/91031320/e8d49016-5090-4b46-92f6-3820ff2fafb2)
+
+## Site
+https://sorveteria-artesanal.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
