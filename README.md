@@ -1,12 +1,35 @@
-# Projeto desenvolvido em ReactJS
-* Implementado o conceito de rotas da biblioteca react-router-dom para administrar a navegação entre nossas páginas.
-* Página totalmente responsiva, se ajustando aos diferentes tamanhos de tela, do mobile ao desktop.
+# 🍨 Sorveteria Artesanal
+
+Projeto final desenvolvido com React para a criação de um site institucional de uma sorveteria artesanal.  
+A proposta é oferecer uma experiência visual agradável, intuitiva e responsiva, com foco na navegação entre páginas utilizando **React Router**.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **React JS**
+- **React Router DOM**
+- **HTML5 & CSS3**
+- **JavaScript (ES6+)**
+
+---
+
+## 📄 Funcionalidades
+
+- Página **Home** com banner e apresentação da sorveteria
+- Página **Sabores** com apresentação dos produtos disponíveis
+- Página **Sobre** com informações da empresa
+- Componente **Topo** (header com navegação)
+- Componente **Rodapé**
+- **Responsividade** para diferentes tamanhos de tela
+- Organização por pastas (componentes, páginas, rotas)
+
 
 ## Layout
 ![image](https://github.com/Lucasgyn94/page-sorveteria-artesanal/assets/91031320/e8d49016-5090-4b46-92f6-3820ff2fafb2)
 
-## Site
-https://sorveteria-artesanal.vercel.app/
+## Link do Site
+👉 [Acesse aqui](https://sorveteria-artesanal.vercel.app/)
 
 # Getting Started with Create React App
 
